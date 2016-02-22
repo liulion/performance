@@ -1,0 +1,26 @@
+<mapping shelf="FOF">
+   <fund fundId="F00001">
+      <fundName>FOF1</fundName>
+      <port portId="P00001">
+         <portName>富善优享7号</portName>
+      </port>
+      <port portId="P00002">
+         <portName>双隆1号</portName>
+	  </port>
+   </fund>
+   <fund fundId="F00002">
+      <fundName>FOF2</fundName>
+      <port portId="P00003">
+         <portName>富善优享6号</portName>
+      </port>
+      <port portId="P00004">
+         <portName>双隆2号</portName>
+      </port>
+   </fund>
+   <fund fundId="000300.SH">
+      <fundName>000300.SH</fundName>
+      <port portId="000300.SH">
+         <portName>000300.SH</portName>
+      </port>
+   </fund>
+</mapping>
